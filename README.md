@@ -32,3 +32,5 @@ C++, Window API, STL list, Multimedia timer, MultiThreading
 ## 실행 결과
 
 [![Demo Doccou alpha](https://j.gifs.com/Bg28wk.gif)](https://youtu.be/pbiWALPjNU0)
+
+(클릭 시 유튜브로 이동합니다)
